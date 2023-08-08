@@ -4,4 +4,6 @@ Android 'dictionary' app that lets users input and edit their own collection of 
 
 ## Tech Stack:
 
-Kotlin, Android Studio
+- Kotlin
+- Android Studio
+- SQLite database
